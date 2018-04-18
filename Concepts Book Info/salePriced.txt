@@ -1,0 +1,28 @@
+25	8
+year	manuf	model	style	seats	miles	price	mileage	
+double	char	char	char	double	double	double	double	
+2005	"Mercedes-Benz"	"SLR"	"convertible"	2	751	346395	26.0974	
+2005	"Mercury"	"Mariner 2WD V6"	"SUV"	7	29511	161987	28.168	
+2005	"Chevrolet"	"Equinox"	"SUV"	9	32000	161918	14.6379	
+2006	"Chevrolet"	"Impala LT"	"sedan"	6	30916	133999	14.7863	
+2007	"Porsche"	"911 Turbo Carrera S"	"convertible"	2	1501	136836	10.9951	
+2006	"Mercedes-Benz"	"G55 AMG G55 AMG 4x4"	"SUV"	7	1137	87210	11.5677	
+2007	"Lexus"	"LS460"	"SUV"	7	5611	84591	22.8163	
+2006	"BMW"	"M6 Coupe"	"convertible"	2	6058	97640.6	13.8177	
+2004	"Porsche"	"911 Turbo Cabriolet"	"convertible"	2	13755	93975	26.8774	
+2005	"Mercedes-Benz"	"SL55 AMG"	"convertible"	2	21423	93345	13.478	
+2006	"Porsche"	"911 Carrera Coupe"	"convertible"	2	7332	91245	13.4159	
+2006	"Land Rover"	"Range Rover Supercharged"	"SUV"	7	27	77985	29.8859	
+2001	"BMW"	"Z8 Roadster"	"convertible"	2	21925	89145	18.7958	
+2007	"Mercedes-Benz"	"S550"	"sedan"	5	11000	76410	16.801	
+2006	"Mercedes-Benz"	"CLS55 AMG"	"convertible"	2	13688	88095	16.2843	
+2007	"Jaguar"	"XK Convertible"	"convertible"	2	5769	87144.8	17.3016	
+2006	"Porsche"	"911 Carrera Cabriolet"	"convertible"	2	7648	84892.5	17.8648	
+2006	"BMW"	"760i"	"sedan"	5	11446	71910	21.8305	
+2003	"Porsche"	"911 Turbo Carrera Coupe"	"convertible"	2	15548	83895	12.3949	
+2007	"Jaguar"	"XK"	"convertible"	2	6597	82944.8	10.7626	
+2007	"BMW"	"750i"	"sedan"	5	2215	71091.9	19.172	
+2006	"BMW"	"M5"	"sedan"	5	8154	71010	27.3973	
+2006	"BMW"	"M5"	"sedan"	5	16286	70965	28.6847	
+2006	"Land Rover"	"Range Rover Supercharged"	"SUV"	5	17657	70785	15.289	
+2007	"Jaguar"	"XK"	"convertible"	2	9349	79695	13.206	
